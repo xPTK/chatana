@@ -6,4 +6,4 @@ Enjoy seamless group chat capabilities, allowing you to collaborate and stay con
 
 Prioritizing your privacy, Chatana employs state-of-the-art encryption to protect your messages. Reclaim your right to private communication and download Chatana today. Experience the future of secure instant messaging.
 
-<a href="https://buymeacoffee.com/xptk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<!-- <a href="https://buymeacoffee.com/xptk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> -->
